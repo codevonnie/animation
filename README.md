@@ -10,7 +10,7 @@ Save each exercise as a separate source file.
 
 1. Stop the ball moving when it hits the bottom of the canvas.
 
-1. Clear at each step of the animation, so that only one copy of the ball is visible at a time.
+1. Clear the canvas at each step of the animation, so that only one copy of the ball is visible at a time.
 
 1. Represent the ball as an object, rather than by a global y value and hard-coded x and r values.
 
